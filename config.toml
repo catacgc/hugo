@@ -1,0 +1,10 @@
+baseURL = "http://catacgc.github.io/"
+languageCode = "en-us"
+title = "Random Dev Notes"
+#theme = "hemingway2"
+theme = "hyde-x"
+
+[params]
+description = "my description"
+layoutReverse = true
+highlight = "monokai_sublime"
